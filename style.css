@@ -1,0 +1,42 @@
+
+    
+
+#font{
+    /* font properties */
+    /* font-family: monospace;   font types */
+    font-size: 4em;  /*  font size*/
+    font-style: inheriita; 
+    font-weight: 900; /* weat*/
+    font-family: 'Caprasimo', cursive;
+    
+}
+#text{
+    text-align: center; /* potion of te text
+    
+    /* text-decoration: underline; /*unterlint doted belove the text */
+    /* text-transform: capitalize; upper case, lower case or first latter captial reaminf lower case to tranform */ */ */
+    /* letter-spacing: 10px; it  use to space betwee letter by letter */
+    /* word-spacing: 10px; it use to space between word by word  */
+    /* line-height: 3; text height  curent font-size * value = font  */
+    
+
+}
+.box-model{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    margin: 0px 40px;
+    padding: 30px 30px ;
+    
+    border: 10px dashed black;
+    
+}
+.box-model1{
+    display: inline-block;
+    position: relative;
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    margin: 10px 50px;
+}
