@@ -17,7 +17,8 @@
     /* text-transform: capitalize; upper case, lower case or first latter captial reaminf lower case to tranform */ */ */
     /* letter-spacing: 10px; it  use to space betwee letter by letter */
     /* word-spacing: 10px; it use to space between word by word  */
-    /* line-height: 3; text height  curent font-size * value = font  */
+    /* line-height: 3; text height  curent font-size * value = top + font + botam */
+    
     
 
 }
